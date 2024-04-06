@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "468731385892",
+    "project_id": "tiendavirtual-649b8",
+    "storage_bucket": "tiendavirtual-649b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468731385892:android:d220937f78285745e720b1",
+        "android_client_info": {
+          "package_name": "com.example.mafic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVjriMq1EIW3VeycBw9rAXDS74ScYXww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468731385892:android:7f59d9228bda835be720b1",
+        "android_client_info": {
+          "package_name": "com.example.mafic.Activity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVjriMq1EIW3VeycBw9rAXDS74ScYXww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

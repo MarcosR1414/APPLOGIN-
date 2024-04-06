@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mafic.app-mergeDebugResources-37:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SOPORTE\\.gradle\\caches\\transforms-3\\f76157947265c29f3b3e567a47a2ca5d\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
